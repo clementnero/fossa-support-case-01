@@ -1,0 +1,9 @@
+version: 3
+
+project:
+  id: fossa-support@case-01
+  policy: Camunda8 Distribution
+
+maven:
+  scope-exclude:
+  - test
